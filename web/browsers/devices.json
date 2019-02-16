@@ -1,0 +1,12 @@
+{
+	"devices": [
+		{
+			"device": "Google Pixel",
+			"realMobile": true
+		},
+		{
+			"device": "iPhone 7",
+			"realMobile": true
+		}
+	]
+}
